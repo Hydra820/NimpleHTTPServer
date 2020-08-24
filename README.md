@@ -3,7 +3,7 @@ SimpleHTTPServer module for Nim - **For Files Only**
 
 ## Install
 ```
-nimble install https://github.com/Hydra820/NimpleHTTPServer
+nimble install NimpleHTTPServer
 ```
 
 ## Usage
